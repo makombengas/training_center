@@ -1,0 +1,131 @@
+{
+    "Error": {
+      "description": "<p>Malheureusement, un problème est survenu.</p><p>Tu peux ressayer <retry>pour actualiser cette page</retry>.</p>",
+      "title": "Quelque chose s'est mal passé !"
+    },
+    "IndexPage": {
+      "description": "Ceci est un exemple montrant l'utilisation de <code>next-intl</code> mit dem Next.js App Router demonstriert. Bei Ändern der Sprache rechts oben ändert sich der Inhalt dieser Seite.",
+      "title": "next-intl Beispiel"
+    },
+    "LocaleLayout": {
+      "title": "next-intl Beispiel"
+    },
+    "LocaleSwitcher": {
+      "label": "Sprache ändern",
+      "locale": "{locale, select, de {DE Allemand} en {US English} fr {FR Français} other {Unbekannt}}"
+    
+    },
+    "langFlags":{
+        "flag": "fi fi-fr"
+    },
+    "Manifest": {
+      "description": "",
+      "name": ""
+    },
+    "Navigation": {
+      "home": "Home",
+      "about": "A propos",
+      "project": "Project",
+      "contact": "Contact",
+      "donate": "Donnez"
+    },
+    
+    "NotFoundPage": {
+      "description": "Bitte überprüfe die Addressleiste deines Browsers oder verwende die Navigation um zu einer bekannten Seite zu wechseln.",
+      "title": "Seite nicht gefunden"
+    },
+    "PageLayout": {
+      "links": {
+        "docs": {
+          "description": "Erfahre mehr über next-intl in der offiziellen Dokumentation.",
+          "href": "https://next-intl-docs.vercel.app/",
+          "title": "Dokumentation"
+        },
+        "source": {
+          "description": "Sieh dir den Quellcode dieses Beispiels auf GitHub an.",
+          "href": "https://github.com/amannn/next-intl/tree/main/examples/example-app-router",
+          "title": "Quellcode"
+        }
+      }
+    },
+    "PathnamesPage": {
+      "description": "<p>Auch die Pfadnamen sind internationalisiert.</p><p>Wenn du die Standardsprache Englisch verwendest, siehst du <code>/en/pathnames</code> in der Adressleiste des Browsers auf dieser Seite.</p><p>Wenn du die Sprache auf Deutsch änderst, wird die URL entsprechend lokalisiert (<code>/de/pfadnamen</code>).</p>",
+      "title": "Pfadnamen"
+    },
+    "Carousel": {
+      "titleRenforcer": "Renforcer les compétences",
+      "subTitleRenforcer": "Développer des compétences techniques et professionnelles qui répondent aux besoins du marché local et international.",
+      "btnCarousel": "Lire la suite",
+      "formerTitle": "Former les jeunes",
+      "subTitleFormer": "Offrir des formations en IA et en développement web à des jeunes de 15 à 30 ans, en intégrant des éléments musicaux pour favoriser l'apprentissage.",
+
+      "titlePromouvoir": "Promouvoir la culture",
+      "subTitlePromouvoir": "Créer un espace où la musique et la technologie se rencontrent, permettant aux jeunes de s’exprimer à travers des projets innovants.",
+  
+      "formerPartenariat": "Créer des partenariats",
+      "subTitlePartenariat": "Collaborer avec des entreprises locales et internationales pour faciliter les stages et l’insertion professionnelle des jeunes formés.",
+      "objectifTitle": "Objectifs du Projet",
+      "objectifSubTitle": "Le Cameroun, comme de nombreux pays africains, fait face à des défis liés à l'éducation technique et professionnelle. Le marché du travail évolue rapidement, et il est crucial de préparer la jeunesse aux nouvelles opportunités offertes par les technologies numériques. De plus, la musique, qui fait partie intégrante de la culture camerounaise, peut être un puissant vecteur de changement et de motivation pour l'apprentissage de ces nouvelles compétences."
+     
+    },
+    
+    "top_courses": {
+      "trading": "Nouveautés et tendances",
+      "explore": "Découvrez des cours populaires"
+    },
+
+    "all_courses": {
+       "loading": "Chargement en cours...",
+      "cours1": {
+        "id": "web-dev",
+        "image": "/images/web.jpg",
+        "mois": "Mois",
+        "duree": "12",
+        "nombreLecons": "32",
+        "lessons": "Lessons",
+        "maxEtudiants": "15",
+        "eleves": "Étudiant(es)",
+        "titre": "Développement web",
+        "description": "Notre association forme les futurs développeurs web. Nos cours couvrent HTML, CSS et JavaScript pour le front-end, ainsi que PHP et SQL pour le back-end. Nous enseignons également les frameworks modernes, le responsive design et les bonnes pratiques de développement. Rejoignez-nous pour acquérir les compétences essentielles du web d'aujourd'hui !",
+        "prix": "250000",
+        "prixInfo": "Prix:",
+        "devise": "XAF",
+        "btnInscription": "S'inscrire",
+       "lien":"/inscription/web-dev"
+      },
+      "cours2": {
+        "id": "wordpress",
+        "image":"/images/wordpress.jpg",
+        "mois": "Mois",
+        "duree": "12",
+        "nombreLecons": "22",
+        "lessons": "Lessons",
+        "maxEtudiants": "20",
+        "eleves": "Étudiant(es)",
+        "titre": "WordPress CMS et plugins",
+        "description": "Nous vous formons à l'univers WordPress. Maîtrisez l'installation, la personnalisation de thèmes et la gestion de contenu. Apprenez à développer des plugins, optimiser le SEO et sécuriser vos sites. Du débutant à l'expert, découvrez le potentiel illimité de ce CMS populaire. Transformez vos idées en sites web professionnels !",
+        "prix": "180000",
+        "prixInfo": "Prix:",
+        "devise": "XAF",
+         "btnInscription": "S'inscrire",
+        "lien":"/inscription/wordpress"
+      },
+      "cours3": {
+        "id": "graphic",
+        "image": "/images/graphic.jpg",
+        "mois": "Mois",
+        "duree": "12",
+        "nombreLecons": "15",
+        "lessons": "Lessons",
+        "eleves": "Étudiant(es)",
+        "maxEtudiants": "12",
+        "titre": "Design graphique",
+        "description": "Nos enseignant_es forme les créatifs de demain en design graphique. Nos cours couvrent les fondamentaux artistiques, les logiciels de la suite Adobe, la typographie et la mise en page. Apprenez la conception d'identités visuelles, l'illustration numérique et le web design. Développez votre créativité et maîtrisez les outils pour réaliser vos projets graphiques professionnels.",
+        "prix":" 200000",
+        "prixInfo": "Prix:",
+        "devise": "XAF",
+         "btnInscription": "S'inscrire",
+         "lien":"/inscription/graphic"
+      }
+    }
+  }

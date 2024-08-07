@@ -1,0 +1,129 @@
+{
+    "Error": {
+      "description": "<p>We've unfortunately encountered an error.</p><p>You can try to <retry>reload the page</retry> you were visiting.</p>",
+      "title": "Something went wrong!"
+    },
+    "IndexPage": {
+      "description": "This is a basic example that demonstrates the usage of <code>next-intl</code> with the Next.js App Router. Try changing the locale in the top right corner and see how the content changes.",
+      "title": "next-intl example"
+    },
+    "LocaleLayout": {
+      "title": "next-intl example"
+    },
+    "LocaleSwitcher": {
+      "label": "Change language",
+      "locale": "{locale, select, de {DE German} en {US English} fr {FR French}  other {Unknown}}"
+    },
+    "langFlags":{
+        "flag": "fi fi-gb"
+    },
+    "Manifest": {
+      "name": "next-intl example"
+    },
+   
+    "Navigation": {
+      "home": "Home",
+      "about": "About us",
+      "project": "Project",
+      "contact": "Contact",
+      "donate": "Donate"
+    },
+    "NotFoundPage": {
+      "description": "Please double-check the browser address bar or use the navigation to go to a known page.",
+      "title": "Page not found"
+    },
+    "PageLayout": {
+      "links": {
+        "docs": {
+          "description": "Learn more about next-intl in the official docs.",
+          "href": "https://next-intl-docs.vercel.app/",
+          "title": "Docs"
+        },
+        "source": {
+          "description": "Browse the source code of this example on GitHub.",
+          "href": "https://github.com/amannn/next-intl/tree/main/examples/example-app-router",
+          "title": "Source code"
+        }
+      }
+    },
+    "PathnamesPage": {
+      "description": "<p>The pathnames are internationalized too.</p><p>If you're using the default language English, you'll see <code>/en/pathnames</code> in the browser address bar on this page.</p><p>If you change the locale to German, the URL is localized accordingly (<code>/de/pfadnamen</code>).</p>",
+      "title": "Pathnames"
+    },
+    "Carousel": {
+      "titleRenforcer": "Strengthen skills",
+      "subTitleRenforcer": "Develop technical and professional skills that meet the needs of the local and international market.",
+      "btnCarousel": "Read more",
+      "formerTitle": "Training young people",
+      "subTitleFormer": "Offer training in AI and web development to young people aged 15 to 30, integrating musical elements to promote learning.",
+   
+      "titlePromouvoir": "Promote culture",
+      "subTitlePromouvoir": "To create a space where music and technology meet, allowing young people to express themselves through innovative projects.",
+ 
+      "formerPartenariat": "Create partnerships",
+      "subTitlePartenariat": "Collaborate with local and international companies to facilitate internships and professional integration for young people trained.",
+      "objectifTitle": "The project's objectives",
+      "objectifSubTitle": "Cameroon, like many African countries, faces challenges related to technical and vocational education. The job market is changing rapidly, and it is crucial to prepare young people for the new opportunities offered by digital technologies. In addition, music, which is an integral part of Cameroonian culture, can be a powerful vector of change and motivation for learning these new skills."
+    
+    },
+    
+    "top_courses": {
+      "trading": "New & Trending",
+      "explore": "Explore Popular Courses"
+    },
+    
+    "all_courses": {
+       "loading": "Loading...",
+      "cours1": {
+        "id": "web-dev",
+        "image": "/images/web.jpg",
+        "mois": "Month",
+        "duree": "12",
+        "nombreLecons": "32",
+        "lessons": "Lessons",
+        "maxEtudiants": "15",
+        "eleves": "Students",
+        "titre": "Web development",
+        "description": "Our association trains future web developers. Our courses cover HTML, CSS and JavaScript for the front-end, as well as PHP and SQL for the back-end. We also teach modern frameworks, responsive design and best development practices. Join us to acquire the essential skills of today's web!",
+        "prix": "250000",
+        "prixInfo": "Price:",
+        "devise": "XAF",
+          "btnInscription": "Register",
+         "lien":"/inscription/web-dev"
+      },
+      "cours2": {
+        "id": "wordpress",
+        "image":"/images/wordpress.jpg",
+        "mois": "Month",
+        "duree": "12",
+        "nombreLecons": "22",
+        "lessons": "Lessons",
+        "maxEtudiants": "20",
+        "eleves": "Students",
+        "titre": "WordPress CMS and plugins",
+        "description": "We train you in the WordPress universe. Master installation, theme customization and content management. Learn how to develop plugins, optimize SEO and secure your sites. From beginner to expert, discover the unlimited potential of this popular CMS. ",
+        "prix": "180000",
+        "prixInfo": "Price:",
+        "devise": "XAF",
+          "btnInscription": "Register",
+        "lien":"/inscription/wordpress"
+      },
+      "cours3": {
+        "id": "graphic",
+        "image": "/images/graphic.jpg",
+        "mois": "Month",
+        "duree": "12",
+        "nombreLecons": "15",
+        "lessons": "Lessons",
+        "eleves": "Students",
+        "maxEtudiants": "12",
+        "titre": "Graphic design",
+        "description": "Our teachers train the creatives of tomorrow in graphic design. Our courses cover artistic fundamentals, Adobe software, typography and layout. Learn visual identity design, digital illustration and web design. Develop your creativity and master the tools to carry out your professional graphic projects.",
+        "prix":" 200000",
+        "prixInfo": "Price:",
+        "devise": "XAF",
+         "btnInscription": "Register",
+       "lien":"/inscription/graphic"
+      }
+    }
+  }

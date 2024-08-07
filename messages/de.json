@@ -1,0 +1,131 @@
+{
+    "Error": {
+      "description": "<p>Es ist leider ein Problem aufgetreten.</p><p>Du kannst versuchen <retry>diese Seite neu zu laden</retry>.</p>",
+      "title": "Etwas ist schief gelaufen!"
+    },
+    "IndexPage": {
+      "description": "Dies ist ein Beispiel, das die Verwendung von <code>next-intl</code> mit dem Next.js App Router demonstriert. Bei Ändern der Sprache rechts oben ändert sich der Inhalt dieser Seite.",
+      "title": "next-intl Beispiel"
+    },
+    "LocaleLayout": {
+      "title": "next-intl Beispiel"
+    },
+    "LocaleSwitcher": {
+      "label": "Sprache ändern",
+      "locale": "{locale, select, de {DE Deutsch} en {US English} fr {FR Französisch}  other {Unbekannt}}"
+    },
+    "langFlags":{
+        "flag": "fi fi-de"
+    },
+    "Manifest": {
+      "description": "",
+      "name": ""
+    },
+    "Navigation": {
+      "home": "Start seite",
+      "about": "Über uns",
+      "project": "Projekt",
+      "contact": "Kontakt",
+      "donate": "Spende"
+    },
+    
+    "NotFoundPage": {
+      "description": "Bitte überprüfe die Addressleiste deines Browsers oder verwende die Navigation um zu einer bekannten Seite zu wechseln.",
+      "title": "Seite nicht gefunden"
+    },
+    "PageLayout": {
+      "links": {
+        "docs": {
+          "description": "Erfahre mehr über next-intl in der offiziellen Dokumentation.",
+          "href": "https://next-intl-docs.vercel.app/",
+          "title": "Dokumentation"
+        },
+        "source": {
+          "description": "Sieh dir den Quellcode dieses Beispiels auf GitHub an.",
+          "href": "https://github.com/amannn/next-intl/tree/main/examples/example-app-router",
+          "title": "Quellcode"
+        }
+      }
+    },
+    "PathnamesPage": {
+      "description": "<p>Auch die Pfadnamen sind internationalisiert.</p><p>Wenn du die Standardsprache Englisch verwendest, siehst du <code>/en/pathnames</code> in der Adressleiste des Browsers auf dieser Seite.</p><p>Wenn du die Sprache auf Deutsch änderst, wird die URL entsprechend lokalisiert (<code>/de/pfadnamen</code>).</p>",
+      "title": "Pfadnamen"
+    },
+    "Carousel": {
+      "titleRenforcer": "Fähigkeiten stärken",
+      "subTitleRenforcer": "Entwickeln Sie technische und berufliche Fähigkeiten, die den Anforderungen des lokalen und internationalen Marktes entsprechen.",
+      "btnCarousel": "Mehr lesen",
+      "formerTitle": "Ausbildung von Jugendlichen",
+      "subTitleFormer": "Bieten Sie jungen Menschen im Alter von 15 bis 30 Jahren Schulungen in KI und Webentwicklung an und integrieren Sie dabei musikalische Elemente zur Lernförderung.",
+
+      "titlePromouvoir": "Kultur fördern",
+      "subTitlePromouvoir": "Einen Raum schaffen, in dem Musik und Technologie aufeinandertreffen und es jungen Menschen ermöglicht, sich durch innovative Projekte auszudrücken.",
+  
+      "formerPartenariat": "Partnerschaften aufbauen",
+      "subTitlePartenariat": "Arbeiten Sie mit lokalen und internationalen Unternehmen zusammen, um Praktika und die berufliche Integration der ausgebildeten jungen Menschen zu erleichtern.",
+       "objectifTitle": "Die Ziele des Projekts",
+             "objectifSubTitle": "Kamerun steht, wie viele afrikanische Länder, vor Herausforderungen im Zusammenhang mit der technischen und beruflichen Bildung. Der Arbeitsmarkt verändert sich rasant und es ist von entscheidender Bedeutung, junge Menschen auf die neuen Chancen digitaler Technologien vorzubereiten. Darüber hinaus kann Musik, die ein integraler Bestandteil der kamerunischen Kultur ist, ein starker Veränderer und Motivationsfaktor für das Erlernen dieser neuen Fähigkeiten sein."
+      
+    },
+
+    "top_courses": {
+      "trading": "Neu & Trendig",
+      "explore": "Entdecken Sie beliebte Kurse"
+    },
+
+      "all_courses": {
+      "loading": "Laden...",
+    "cours1": {
+    "id": "web-dev",
+      "image": "/images/web.jpg",
+      "mois": "Monaten",
+      "duree": "12",
+      "nombreLecons": "32",
+      "lessons": "Unterrichten",
+      "maxEtudiants": "15",
+      "eleves": "Studenten",
+      "titre": "Web Entwicklung",
+      "description": "Unser Verein bildet zukünftige Webentwickler aus. Unsere Kurse umfassen HTML, CSS und JavaScript für das Frontend sowie PHP und SQL für das Backend. Wir vermitteln außerdem moderne Frameworks, Responsive Design und gute Entwicklungspraktiken. Machen Sie mit bei uns und erlernen Sie die wesentlichen Fähigkeiten des heutigen Webs!",
+      "prix": "250000",
+      "prixInfo": "Preis:",
+      "devise": "XAF",
+      "btnInscription": "Anmelden",
+        "lien":"/inscription/web-dev"
+    },
+    "cours2": {
+      "id": "wordpress",
+      "image":"/images/wordpress.jpg",
+      "mois": "Monaten",
+      "duree": "12",
+      "nombreLecons": "22",
+      "lessons": "Unterrichten",
+      "maxEtudiants": "20",
+      "eleves": "Studenten",
+      "titre": "WordPress CMS und Plugins",
+      "description": "Wir bilden Sie in der WordPress-Welt. Master-Installation, Theme-Anpassung und Content-Management. Erfahren Sie, wie Sie Plugins entwickeln, SEO optimieren und Ihre Websites sichern. Entdecken Sie vom Anfänger bis zum Experten das unbegrenzte Potenzial dieses beliebten CMS. Verwandeln Sie Ihre Ideen in professionelle Websites!",
+      "prix": "180000",
+      "prixInfo": "Preis:",
+      "devise": "XAF",
+        "btnInscription": "Anmelden",
+        "lien":"/inscription/wordpress"
+    },
+    "cours3": {
+     "id": "graphic",
+      "image": "/images/graphic.jpg",
+      "mois": "Monaten",
+      "duree": "12",
+      "nombreLecons": "15",
+      "lessons": "Unterrichten",
+      "eleves": "Studenten",
+      "maxEtudiants": "12",
+      "titre": "Grafikdesign",
+      "description": "Unsere Lehrer bilden die Kreativen von morgen im Grafikdesign aus. Unsere Kurse umfassen künstlerische Grundlagen, Adobe Suite-Software, Typografie und Layout. Lernen Sie visuelles Identitätsdesign, digitale Illustration und Webdesign. Entwickeln Sie Ihre Kreativität und beherrschen Sie die Werkzeuge zur Durchführung Ihrer professionellen Grafikprojekte.",
+      "prix":" 200000",
+      "prixInfo": "Preis:",
+      "devise": "XAF",
+      "btnInscription": "Anmelden",
+      "lien":"/inscription/graphic"
+    }
+   
+  }
+  }
